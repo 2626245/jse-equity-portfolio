@@ -77,4 +77,4 @@ Microsoft Excel.
 
 ## Disclaimer
 
-This is a personal project for learning and documenting my own process. It is not investment advice. Do your own research before buying any security.
+This is a personal project for learning and documenting my own process. It is not investment advice. Do your own research before buying any security. The data and information used was gathered on December 2025 .
